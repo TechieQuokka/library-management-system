@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(build.bat)",
+      "Bash(cmd /c:*)",
+      "Bash(gcc:*)",
+      "Bash(dir:*)",
+      "Bash(./library_system.exe)",
+      "Bash(timeout:*)",
+      "Bash(git init:*)",
+      "Bash(gh repo create:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
