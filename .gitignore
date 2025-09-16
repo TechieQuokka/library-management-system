@@ -21,8 +21,8 @@ obj/
 *.idb
 *.pdb
 
-# Core dumps
-core
+# Core dumps (but not src/core directory)
+/core
 vgcore.*
 
 # Editor files
